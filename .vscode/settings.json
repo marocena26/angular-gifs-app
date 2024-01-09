@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "sidebar",
-        "home-page"
+        "home-page",
+        "general"
     ]
 }

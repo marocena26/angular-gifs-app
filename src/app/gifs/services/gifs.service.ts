@@ -3,9 +3,12 @@ import { Injectable } from '@angular/core';
 @Injectable({
   providedIn: 'root',
 })
+
+// const GIPHY_API_KEY = 'QRTqQEsNcbSQrq40QT0l0HAcaDLfIcSb';
+
 export class GifsService {
   private _tagsHistory: string[] = [];
-
+  private apiKey: string = 'QRTqQEsNcbSQrq40QT0l0HAcaDLfIcSb';
   constructor() {}
 
   get tagsHistory() {
