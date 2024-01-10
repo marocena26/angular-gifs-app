@@ -14,6 +14,8 @@ In this repository you can find the files generated in the **Angular: de cero a 
 
 Gif search application. The user will use a search bar to be able to see a maximum of 10 gifs of the searched item on the screen. 
 
+> **NOTE:** Direct link to the project by clicking on the following **[link](https://gifs-app-marocena26.netlify.app/)**.
+
 ## 🛠️ Tools
 
 The following tools have been used when solving the project:
