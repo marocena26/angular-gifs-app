@@ -54,8 +54,10 @@ export class GifsService {
       .set('limit', '10')
       .set('q', tag);
 
+    const apiUrl = 'https://api.giphy.com/v1/gifs';
+
     this.http
-      .get<SearchResponse>(`${this.serviceUrl}/search`, { params })
+      .get<SearchResponse>(`${apiUrl}/search`, { params })
       .subscribe((resp) => {
         this.gifList = resp.data;
         console.log({ gifs: this.gifList });
