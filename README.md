@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 Author 
 
-- **Mª Elena Arocena López: [@marocena26](https://github.com/marocena26)**
+- **Elena Arocena: [@marocena26](https://github.com/marocena26)**
 
 ## 👉🏻 Hey, look here! 
 
